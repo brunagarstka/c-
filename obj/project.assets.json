@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c#.csproj",
+      "projectUniqueName": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\c#.csproj",
       "projectName": "c#",
-      "projectPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c#.csproj",
+      "projectPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\c#.csproj",
       "packagesPath": "C:\\Users\\bruna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\obj\\",
+      "outputPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruna\\AppData\\Roaming\\NuGet\\NuGet.Config"
